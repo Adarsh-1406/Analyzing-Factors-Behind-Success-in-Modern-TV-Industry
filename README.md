@@ -1,4 +1,4 @@
-# BA775 Group Project
+# BA775 Business Analytics Tool-Box - Group Project
 
 # Collaborators: 
 1. Adarsh Prajapat
