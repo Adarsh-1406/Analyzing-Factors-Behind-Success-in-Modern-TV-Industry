@@ -1,4 +1,5 @@
-# BA775 Business Analytics Toolbox - Group Project
+# Analyzing Factors Behind Success in Modern TV Industry   
+## BA775 Business Analytics Toolbox - Group Project
 
 # Collaborators: 
 1. Adarsh Prajapat
